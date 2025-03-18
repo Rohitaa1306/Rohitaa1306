@@ -6,7 +6,6 @@ Currently, I am working at **Baylor College of Medicine**, where I’ve implemen
 
 Throughout my career, I have not only solved complex technical challenges but also delivered actionable insights that have driven innovation and success. From automating **heart disease diagnosis** using **deep learning** to optimizing **object detection models**, my focus has always been on **measurable outcomes** and **improving efficiency** in every project I undertake.
 
-As I continue to grow my career, my goal is to contribute to **AI-driven innovations** that positively impact **healthcare**, **sustainable energy**, and **data-driven decision-making**. If you're interested in collaborating on groundbreaking projects or exploring new opportunities in **AI**, **machine learning**, or **data science**, feel free to connect! Let’s innovate together.
 
 ### 📫 How to reach me:
 - Email: [rohitaa1318@gmail.com](mailto:rohitaa1318@gmail.com)
