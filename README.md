@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Rohitaa Ravikumar
+# Hi there 👋
 
 I’m a passionate and results-driven **Data Scientist** with a specialization in **AI**, **machine learning**, **deep learning**, **computer vision**, **data science**, and **data analysis**. With a strong foundation in data science and programming, I’ve leveraged my expertise in **Python**, **SQL**, **PyTorch**, **Keras**, **TensorFlow**, **OpenCV**, **scikit-learn**, **SciPy**, **seaborn**, **pandas**, **NumPy**, and **Matplotlib** to analyze and visualize data that influences research and decision-making, particularly in the fields of **healthcare**.
 
